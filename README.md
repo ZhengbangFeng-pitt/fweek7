@@ -10,7 +10,7 @@ if none of these inputs are correct, the program will laugh at endusers.
 the reason why i choose GNU General Public License v3.0 as my license is because it's fair enough, especially the limitation of warranty.          
 
 
-and the reason i choose Coc as codes of conduct is because it covers the important area and conducts could appear in cooperation and gives fair rules.
+and also the reason i choose Coc as codes of conduct is because it covers the important area and conducts could appear in cooperation and gives fair rules.
 
 
 
